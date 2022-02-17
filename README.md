@@ -1,4 +1,4 @@
-<h1> <a href="https://navsheelbiral.github.io/Simon-game/"> To-Do List </a> </h1>
+<h1> <a href="https://navsheelbiral.github.io/Simon-game/"> 🔴 Simon Game </a> </h1>
 <h2> This is a browser game called the Simon Game, and it's created using: </h2>
 <ul>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
