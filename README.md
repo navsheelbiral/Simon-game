@@ -11,4 +11,4 @@
 <img src="https://github.com/navsheelbiral/Simon-game/blob/master/r-img/1.png" />
 <h4> If the player fails to reproduce the sequence, a buzzer sound rings, and the player can press any key to restart the game. </h4>
 <img src="https://github.com/navsheelbiral/Simon-game/blob/master/r-img/2.png" />
-<h3> The application is hosted at: https://navsheelbiral.github.io/Simon-game/ </h3>
+<h3> The application is hosted <a href="https://navsheelbiral.github.io/Simon-game/"> here. </a>  </h3>
